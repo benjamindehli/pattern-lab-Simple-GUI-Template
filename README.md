@@ -1,1 +1,1 @@
-pattern-lab-Simple-GUI-Template
+# Pattern Lab - Simple GUI Template
