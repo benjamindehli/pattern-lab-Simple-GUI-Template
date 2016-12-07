@@ -1,6 +1,10 @@
 /* ABSTRACT */
-@import "scss/abstracts/mixins";
 @import "scss/abstracts/variables";
+
+
+/* MIXINS */
+@import "scss/mixins/colors";
+@import "scss/mixins/grid";
 
 
 /* BASE */
