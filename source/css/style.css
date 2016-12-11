@@ -1,3 +1,6 @@
 /*
  * YOUR STYLES HERE
  */
+body{
+	overflow: auto;
+}

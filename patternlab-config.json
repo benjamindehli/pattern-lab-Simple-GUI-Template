@@ -11,7 +11,7 @@
       "js" : "./source/js",
       "images" : "./source/images",
       "fonts" : "./source/fonts",
-      "css" : "./source/css/"
+      "css" : "./bower_components/simple-gui-template/assets/css/"
     },
     "public" : {
       "root" : "./public/",
